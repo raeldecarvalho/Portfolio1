@@ -151,9 +151,22 @@ body {
     }
 }
 
-@media only handheld {
+@media handheld and (max-width:1300px){
+    .cabecalho {
+        padding: 10%;
+    }
+    .cabecalho__menu{
+        justify-content: center;
+    }
     .cabecalho__menu__link{
         font-size: 1.5rem;
+    }
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .apresentacao__conteudo {
+        width: auto;
     }
     .apresentacao__imagem {
         width: 80%;
