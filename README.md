@@ -1,6 +1,4 @@
-# Portfólio
-
-## Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio | Olá, bem vindo ao meu projeto de portfólio.
 
 ![image]()
 
@@ -13,7 +11,7 @@
 * Flex-box
 
 ## Feito por: 
-###Rael de Carvalho
+### Rael de Carvalho
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
