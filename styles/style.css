@@ -152,6 +152,9 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+}
+
+@media handheld {
     .apresentacao__imagem {
         width: 80%;
     }
