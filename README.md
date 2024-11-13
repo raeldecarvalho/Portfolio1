@@ -10,7 +10,8 @@
 
 * Flex-box
 
-## Feito por: <br> Rael de Carvalho
+## Feito por: 
+## Rael de Carvalho
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
 
