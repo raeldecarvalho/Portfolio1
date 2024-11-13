@@ -135,7 +135,7 @@ body {
     font-weight: 500;
 }
 
-@media not handheld and (max-width: 1300px) {
+@media not handheld and (max-width: 1300px){
     .cabecalho {
         padding: 10%;
     }
@@ -151,7 +151,7 @@ body {
     }
 }
 
-@media handheld and (max-width:1300px){
+@media handheld{
     .cabecalho {
         padding: 10%;
     }
